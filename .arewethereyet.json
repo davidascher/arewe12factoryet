@@ -1,0 +1,18 @@
+{
+  'codebase': 1,
+  'dependencies': 0,
+  'config': 1,
+  'backingservices': -1,
+  'buildreleaserun': -1,
+  'processes': 1,
+  'portbinding': 1,
+  'concurrency': 1,
+  'disposability': 1,
+  'devprodparity': 1,
+  'logs': 1,
+
+  'monitor': 0,
+  'alarm': 0,
+  'multihomed': 0,
+  'tests': 0,
+}
